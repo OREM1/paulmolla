@@ -226,14 +226,11 @@ footer ul li{
 }
 footer ul{
   display: inline;
- 
-}
-footer a{
-  display: inline;
-  
+ margin-right: 10%;
 }
 footer ul li a{
-  margin-right:8% !important;
+  margin-right:10% !important;
+  height: 10%;
 }
 
 /* homesreen button*/
